@@ -15,15 +15,7 @@
     <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" alt="SASS">
   </div>
 
-  <div style="background: #f8f8f8; padding: 25px; border-radius: 15px; margin-bottom: 30px;">
-    <h2 style="color: #333; font-size: 1.8em; margin-bottom: 20px; text-align: center;">🌟 Tech Features</h2>
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li style="margin: 12px 0; font-size: 1.1em;">✅ React 18 + TypeScript</li>
-      <li style="margin: 12px 0; font-size: 1.1em;">✅ Responsive SASS architecture</li>
-      <li style="margin: 12px 0; font-size: 1.1em;">✅ Component-based structure</li>
-      <li style="margin: 12px 0; font-size: 1.1em;">✅ Modern CSS animations</li>
-    </ul>
-  </div>
+
   <footer style="margin-top: 40px; color: #666; font-size: 0.9em; text-align: center;">
     <p>Developed with ♥ by <a href="https://github.com/awwwdde" style="color: #d8a3b3; text-decoration: none;">awwwdde</a></p>
     <p>📌 React-based beauty portfolio</p>
